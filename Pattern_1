@@ -1,9 +1,17 @@
-//1]		
-//		*****
-//		*****
-//		*****
-//		*****
-//		*****
+package pattern_all;
+
+public class demo1 {
+
+	public static void main(String[] args) {
+
+   /*
+      1]		
+		*****
+		*****
+		*****
+		*****
+		*****
+   */
 
 		int size=5;
 		
@@ -13,4 +21,3 @@
 			}
 			System.out.println();
 		}
- 
